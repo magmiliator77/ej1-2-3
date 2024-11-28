@@ -1,0 +1,177 @@
+*{
+
+    margin: 0px;
+    padding: 0px;
+
+}
+
+body{
+
+    margin: 10px;    
+
+}
+
+h1{
+
+    margin-bottom: 20px;
+    font-weight: bold;
+    color: rgb(56, 184, 184);
+    
+}
+
+h2{
+
+
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: blue;
+
+}
+
+p{
+
+
+    display: inline;
+    
+
+}
+
+#red{
+
+ 
+    color: red;
+    font-weight: bold;
+
+}
+
+#orange{
+
+
+    color: orange;
+    font-weight: bold;
+
+}
+
+
+
+
+#red2{
+
+ 
+    color: red;
+    text-decoration: underline;
+    
+
+}
+
+
+#blue{
+
+ 
+   color: blue;
+   text-decoration: underline red;
+   font-style: italic;
+   font-weight: bold;
+
+}
+
+#italic{
+
+    font-style: italic;
+
+}
+
+#purple{
+
+
+    color: purple;
+
+}
+
+
+#green{
+
+    color: green;
+    font-weight: bold;
+
+}
+
+#green-underline{
+
+    
+    color: green;
+    font-weight: bold;
+    text-decoration: underline;
+
+}
+
+#pink{
+
+    color: rgb(255, 0, 195);
+    font-weight: bold;
+
+}
+
+
+/* TABLA */
+
+table{
+
+    margin-top: 15px;
+    margin-bottom: 10px;
+
+    border: 1px solid black;
+    border-collapse: collapse;
+
+}
+
+caption{
+
+    color: blue;
+    font-weight: bold;
+
+}
+
+
+td{
+
+    padding: 5px;
+
+    border: 1px solid black;
+
+}
+
+
+.fila1{
+
+    color: rgb(255, 123, 0);
+    font-weight: bolder
+
+}
+
+
+.fila2{
+
+    color: green;
+    font-weight: bolder
+
+}
+
+
+/* PARRAFOS FINALES */
+
+
+.p-finals{
+        
+    color: green;
+
+    
+
+}
+
+.p-finals-div{
+
+    margin-bottom: 10px;
+
+}
+
